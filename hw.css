@@ -1,0 +1,42 @@
+body{
+    font-family: 'Inter', sans-serif;
+    background-color: #fff;
+}
+div{
+    background-color: #fff;
+    padding: 15px 10px 15px 10px;
+}
+button{
+    background-color: #fff;
+    letter-spacing: 0.2px;
+    padding: 8px 16px;
+    font-weight: 500;
+    font-size: 18px;
+    border: 1px solid #ADADAD;
+    border-radius: 16px;
+    cursor: pointer;
+}
+#first{
+    color: #fff;
+    background: #6C5CE7;
+    border: 1px solid ;
+}
+#second{
+    color: #fff;
+    background: #6C5CE7;
+    border: 1px solid ;
+}
+.button-arrow{
+    width: 184;
+    height: 48;
+    position: absolute;
+    left: 50%;
+    right: 32.5%;
+    top: 32.5%;
+    bottom: 32.5%;
+
+    /* White */
+
+    border: 3px solid #FFFFFF;
+
+}
